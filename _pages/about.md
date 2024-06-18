@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# ✨ About me
 Hi, there! I'm Mengjiao Liu, a Sci-fi lover and a swimming novice. Currently I'm a postguraduate student at <a href='https://tjusail.github.io/'>SAIL(Software Anylasis and Intelligence Lab)</a> of Tianjin University. My research insterest are mainly in the direction of automatic program repair, focusing on how to improve developer productivity through more automated workflows. At the same time, I am also interested in test generation.
 
 <!--
@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 -->
-- Jiajun Jiang, Yumeng Wang, Junjie Chen, Delin Lv, and Mengjiao Liu. 2023. Variable-based Fault Localization via Enhanced Decision Tree. ACM Trans. Softw. Eng. Methodol. 33, 2, Article 41 (February 2024), 32 pages. <a href='https://doi.org/10.1145/3624741'>[PDF]</a>
+- <font color=#B22222>**\[CCF-A\]**</font> Jiajun Jiang, Yumeng Wang, Junjie Chen, Delin Lv, and **Mengjiao Liu**. 2023. Variable-based Fault Localization via Enhanced Decision Tree. ACM Trans. Softw. Eng. Methodol. 33, 2, Article 41 (February 2024), 32 pages.[\[PDF\]](https://doi.org/10.1145/3624741)
 
 # 🎖 Honors and Awards
 - *2022.06* Merit Student, Dalian Maritime University.
