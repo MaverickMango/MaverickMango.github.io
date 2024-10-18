@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # ✨ About me
-Hi, there! Here is Mengjiao Liu, a sci-fi lover and a swimming novice. Currently I'm a postguraduate student at [SAIL(Software Anylasis and Intelligence Lab)](https://tjusail.github.io/) of Tianjin University. My research insterest are mainly in the direction of automatic program repair, focusing on how to improve developer productivity through more automated workflows. At the same time, I am also interested in test generation.
+Hi, there! Here is Mengjiao Liu, a sci-fi lover and a swimming novice. Currently I'm a postguraduate student at [SAIL(Software Anylasis and Intelligence Lab)](https://tjusail.github.io/) of Tianjin University. My research insterest is mainly in the direction of automatic program repair, focusing on how to improve developer productivity through more automated workflows. At the same time, I am also interested in test generation.
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -43,8 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - **\[CCF-A\]** Jiajun Jiang, Yumeng Wang, Junjie Chen, Delin Lv, and **Mengjiao Liu**. 2023. Variable-based Fault Localization via Enhanced Decision Tree. ACM Trans. Softw. Eng. Methodol. 33, 2, Article 41 (February 2024), 32 pages.[\[PDF\]](https://doi.org/10.1145/3624741)
 
 # 🎖 Honors and Awards
-- *2022.06* Merit Student, Dalian Maritime University.
-- *2021.06* Provincial Special Prize in National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge. 
+- *2022.05* Excellent Graduate, Dalian.
+- *2021.12* Merit Student, Dalian Maritime University.
+- *2021.06* Provincial Special Prize of National Undergraduate "Innovation, Creativity and Entrepreneurship" Challenge in E-commerce, LiaoNing. 
 - *2019.12* National Scholarship. 
 
 # 📖 Educations
